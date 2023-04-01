@@ -40,31 +40,15 @@ Hi there! I'm a front-end web developer with a passion for creating beautiful, f
 
 </details>
 
-## Projects
+# Projects
 
-### [Project 1 Name]
+## Project 1: [DOORS Translation]
+A translation of the popular Roblox game "DOORS" into Serbian, Bosnian, and Croatian languages.
+The purpose of this project was to make the game "DOORS" accessible to a wider audience by translating it into three additional languages.
 
-[Insert brief description of your project and its purpose]
-
-[Insert link to your project]
-
-[Insert screenshot of your project]
-
-### [Project 2 Name]
-
-[Insert brief description of your project and its purpose]
-
-[Insert link to your project]
-
-[Insert screenshot of your project]
-
-### [Project 3 Name]
-
-[Insert brief description of your project and its purpose]
-
-[Insert link to your project]
-
-[Insert screenshot of your project]
+## Project 2: [AquaTracker Website]
+A web application that tracks your daily water intake.
+The purpose of this project was to create a simple, user-friendly way for people to track their daily water intake.
 
 ## Contact Me
 
