@@ -4,9 +4,9 @@
 
 Hi there! I'm a front-end web developer with a passion for creating beautiful, functional websites that make a positive impact. When I'm not coding, you can find me competing as an arena FIDE Master or diving deep into the mysteries of theoretical physics. I love exploring the complexities of the universe and bringing that same sense of curiosity and wonder to everything I do. Let's build something great together!
 
-## Skills
+<details>
+<summary><strong>Technical Skills</strong></summary>
 
-# Technical Skills
 - HTML5
 - CSS3
 - JavaScript
@@ -14,12 +14,19 @@ Hi there! I'm a front-end web developer with a passion for creating beautiful, f
 - Git
 - GitHub
 
-# Design Skills
+</details>
+
+<details>
+<summary><strong>Design Skills</strong></summary>
+
 - UI/UX design
 - Prototyping
 - Adobe Photoshop
 
-# Soft Skills
+</details>
+
+<details>
+<summary><strong>Soft Skills</strong></summary>
 
 - Problem-solving
 - Communication
@@ -29,6 +36,7 @@ Hi there! I'm a front-end web developer with a passion for creating beautiful, f
 - Leadership
 - Adaptability
 
+</details>
 
 ## Projects
 
