@@ -52,8 +52,9 @@ The purpose of this project was to create a simple, user-friendly way for people
 
 ## Contact Me
 
-[Insert your contact information, such as email address, phone number, and links to your social media profiles]
+Feel free to reach out to me via email or on social media:
 
-## License
-
-[Insert details about the license for your portfolio, such as the type of license and any restrictions or requirements]
+- Email: [peritopre@gmail.com](mailto:peritopre@gmail.com)
+- Twitter: [@imafancynut](https://twitter.com/imafancynut)
+- GitHub: [Admir Mihajlo Bauermeister](https://github.com/nightmae)
+- Discord [nightmae](nightmae#0040)
